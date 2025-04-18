@@ -1,0 +1,351 @@
+[
+    {
+        "question": "Što je phishing?",
+        "answers": [
+            { "text": "Vrsta ribolova", "correct": false },
+            { "text": "Kibernetički napad koji koristi lažne e-mailove", "correct": true },
+            { "text": "Vrsta šifriranja", "correct": false },
+            { "text": "Sigurnosni protokol", "correct": false }
+        ]
+    },
+    {
+        "question": "Hakiraj ovo pitanje (savjet:pregledaj malo kod)",
+        "type": "hack",
+        "hint": "Pogledaj HTML kod za skriveni odgovor.",
+        "correctAnswer": "SvakaCast"
+    },
+    {
+        "question": "Koji je najbolji način za zaštitu lozinke?",
+        "answers": [
+            { "text": "Koristiti istu lozinku za sve račune", "correct": false },
+            { "text": "Zapisati lozinku na papir", "correct": false },
+            { "text": "Koristiti jaku i jedinstvenu lozinku", "correct": true },
+            { "text": "Dijeliti lozinku s prijateljima", "correct": false }
+        ]
+    },
+    {
+        "question": "Što znači skraćenica VPN?",
+        "answers": [
+            { "text": "Virtualni privatni nadzor", "correct": false },
+            { "text": "Vrhunska privatna zaštita", "correct": false },
+            { "text": "Vrlo pouzdana enkripcija", "correct": false },
+            { "text": "Virtualna privatna mreža", "correct": true }
+        ]
+    },
+    {
+        "question": "Koji je najsigurniji način provjere autentičnosti?",
+        "answers": [
+            { "text": "Samo lozinka", "correct": false },
+            { "text": "Lozinka napisana na papiru", "correct": false },
+            { "text": "Dvofaktorska autentifikacija (2FA)", "correct": true },
+            { "text": "Jednostavna lozinka", "correct": false }
+        ]
+    },
+    {
+        "question": "Što je ransomware?",
+        "answers": [
+            { "text": "Zlonamjerni softver koji zaključava podatke i traži otkupninu", "correct": true },
+            { "text": "Vrsta sigurnosnog softvera", "correct": false },
+            { "text": "Brzi internet protokol", "correct": false },
+            { "text": "Vrsta enkripcije", "correct": false }
+        ]
+    },
+    {
+        "question": "Kako prepoznati lažnu web stranicu?",
+        "answers": [
+            { "text": "Kliknuti na sve linkove", "correct": false },
+            { "text": "Provjeriti HTTPS certifikat", "correct": true },
+            { "text": "Unijeti lozinku i vidjeti što se događa", "correct": false },
+            { "text": "Ako izgleda slično pravoj, mora biti sigurna", "correct": false }
+        ]
+    },
+    {
+        "question": "Koja je najsigurnija metoda zaštite podataka na računalu?",
+        "answers": [
+            { "text": "Korištenje lozinke samo na e-mailu", "correct": false },
+            { "text": "Zapisivanje lozinke na papir", "correct": false },
+            { "text": "Napuštanje računala bez odjave", "correct": false },
+            { "text": "Šifriranje podataka i redoviti backup", "correct": true }
+        ]
+    },
+    {
+        "question": "Što učiniti ako te netko uznemirava online?",
+        "answers": [
+            { "text": "Uvrijedi ga natrag", "correct": false },
+            { "text": "Prijaviti i blokirati korisnika", "correct": true },
+            { "text": "Podijeliti svoje osobne podatke", "correct": false },
+            { "text": "Ignorirati i nadati se da će prestati", "correct": false }
+        ]
+    },
+    {
+        "question": "Što znači skraćenica DDoS?",
+        "answers": [
+            { "text": "Distribuirani napad uskraćivanja usluge", "correct": true },
+            { "text": "Digitalna distribucija sustava", "correct": false },
+            { "text": "Dinamika digitalnih sustava", "correct": false },
+            { "text": "Direktna dozvola sigurnosti", "correct": false }
+        ]
+    },
+    {
+        "question": "Kako zaštititi svoje osobne podatke na internetu?",
+        "answers": [
+            { "text": "Dijeliti ih samo s prijateljima", "correct": false },
+            { "text": "Objavljivati ih na društvenim mrežama", "correct": false },
+            { "text": "Koristiti istu lozinku za sve račune", "correct": false },
+            { "text": "Ne dijeliti ih javno i koristiti sigurne lozinke", "correct": true }
+        ]
+    },
+    {
+        "question": "Je li sigurno koristiti javne Wi-Fi mreže bez VPN-a?",
+        "answers": [
+            { "text": "Da", "correct": false },
+            { "text": "Ne", "correct": true }
+        ]
+    },
+    {
+        "question": "Što je dvofaktorska autentifikacija (2FA)?",
+        "answers": [
+            { "text": "Način zaštite koji koristi dva različita načina provjere identiteta", "correct": true },
+            { "text": "Način zaštite koji koristi dvije lozinke", "correct": false },
+            { "text": "Način zaštite koji koristi dva e-mail računa", "correct": false },
+            { "text": "Način zaštite koji koristi dva računala", "correct": false }
+        ]
+    },
+    {
+        "question": "Koji od sljedećih je primjer socijalnog inženjeringa?",
+        "answers": [
+            { "text": "Korištenje antivirusnog softvera", "correct": false },
+            { "text": "Enkripcija podataka", "correct": false },
+            { "text": "Phishing e-mail", "correct": true },
+            { "text": "Redoviti backup podataka", "correct": false }
+        ]
+    },
+    {
+        "question": "Što je firewall?",
+        "answers": [
+            { "text": "Vrsta antivirusnog softvera", "correct": false },
+            { "text": "Sigurnosni sustav koji kontrolira dolazni i odlazni promet", "correct": true },
+            { "text": "Vrsta enkripcije", "correct": false },
+            { "text": "Način zaštite od ransomwarea", "correct": false }
+        ]
+    },
+    {
+        "question": "Je li sigurno otvarati privitke e-maila od nepoznatih pošiljatelja?",
+        "answers": [
+            { "text": "Da", "correct": false },
+            { "text": "Ne", "correct": true }
+        ]
+    },
+    {
+        "question": "Što je malware?",
+        "answers": [
+            { "text": "Vrsta sigurnosnog softvera", "correct": false },
+            { "text": "Zlonamjerni softver", "correct": true },
+            { "text": "Vrsta enkripcije", "correct": false },
+            { "text": "Način zaštite podataka", "correct": false }
+        ]
+    },
+    {
+        "question": "Koji od sljedećih je primjer jake lozinke?",
+        "answers": [
+            { "text": "123456", "correct": false },
+            { "text": "password", "correct": false },
+            { "text": "G3st!L0z1nk@", "correct": true },
+            { "text": "qwerty", "correct": false }
+        ]
+    },
+    {
+        "question": "Što je enkripcija?",
+        "answers": [
+            { "text": "Način zaštite podataka pretvaranjem u nečitljiv oblik", "correct": true },
+            { "text": "Način zaštite podataka dijeljenjem s drugima", "correct": false },
+            { "text": "Način zaštite podataka brisanjem", "correct": false },
+            { "text": "Način zaštite podataka zapisivanjem na papir", "correct": false }
+        ]
+    },
+    {
+        "question": "Je li sigurno koristiti istu lozinku za više računa?",
+        "answers": [
+            { "text": "Da", "correct": false },
+            { "text": "Ne", "correct": true }
+        ]
+    },
+    {
+        "question": "Što je keylogger?",
+        "answers": [
+            { "text": "Vrsta antivirusnog softvera", "correct": false },
+            { "text": "Zlonamjerni softver koji bilježi tipke koje pritisnete", "correct": true },
+            { "text": "Vrsta enkripcije", "correct": false },
+            { "text": "Način zaštite podataka", "correct": false }
+        ]
+    },
+    {
+        "question": "Koji od sljedećih je primjer sigurnosnog pitanja?",
+        "answers": [
+            { "text": "Ime vašeg ljubimca", "correct": true },
+            { "text": "Vaša lozinka", "correct": false },
+            { "text": "Vaš e-mail", "correct": false },
+            { "text": "Vaš broj telefona", "correct": false }
+        ]
+    },
+    {
+        "question": "Što je trojanac?",
+        "answers": [
+            { "text": "Vrsta antivirusnog softvera", "correct": false },
+            { "text": "Zlonamjerni softver koji se pretvara da je koristan", "correct": true },
+            { "text": "Vrsta enkripcije", "correct": false },
+            { "text": "Način zaštite podataka", "correct": false }
+        ]
+    },
+    {
+        "question": "Je li sigurno koristiti istu lozinku za više računa?",
+        "answers": [
+            { "text": "Da", "correct": false },
+            { "text": "Ne", "correct": true }
+        ]
+    },
+    {
+        "question": "Što je sigurnosna kopija (backup)?",
+        "answers": [
+            { "text": "Način zaštite podataka kopiranjem na drugu lokaciju", "correct": true },
+            { "text": "Način zaštite podataka brisanjem", "correct": false },
+            { "text": "Način zaštite podataka dijeljenjem s drugima", "correct": false },
+            { "text": "Način zaštite podataka zapisivanjem na papir", "correct": false }
+        ]
+    },
+    {
+        "question": "Koji od sljedećih je primjer sigurnosnog pitanja?",
+        "answers": [
+            { "text": "Ime vašeg ljubimca", "correct": true },
+            { "text": "Vaša lozinka", "correct": false },
+            { "text": "Vaš e-mail", "correct": false },
+            { "text": "Vaš broj telefona", "correct": false }
+        ]
+    },
+    {
+        "question": "Koji je od ovih trojanaca najskuplji?",
+        "answers": [
+            {"text": "Venom RAT + HVNC", "correct": false},
+            {"text": "Netwire", "correct": false},
+            {"text": "XWorm", "correct": false},
+            {"text": "Cobalt Strike", "correct": true}
+        ]
+    },
+    {
+        "question": "Što je brute-force napad?",
+        "answers": [
+            { "text": "Napad koji koristi sve moguće kombinacije lozinki", "correct": true },
+            { "text": "Napad putem phishing e-maila", "correct": false },
+            { "text": "Napad koji koristi zlonamjerni softver", "correct": false },
+            { "text": "Napad koji koristi socijalni inženjering", "correct": false }
+        ]
+    },
+    {
+        "question": "Koji je najbolji način zaštite od ransomware napada?",
+        "answers": [
+            { "text": "Redovito ažuriranje softvera i sigurnosne kopije podataka", "correct": true },
+            { "text": "Klikanje na sve e-mail privitke", "correct": false },
+            { "text": "Korištenje iste lozinke za sve račune", "correct": false },
+            { "text": "Dijeljenje osobnih podataka online", "correct": false }
+        ]
+    },
+    {
+        "question": "Kako prepoznati online nasilje?",
+        "answers": [
+            { "text": "Nepristojne ili prijeteće poruke", "correct": true },
+            { "text": "Konstruktivna kritika", "correct": false },
+            { "text": "Anonimni komentari bez uvreda", "correct": false },
+            { "text": "Dijeljenje korisnih savjeta", "correct": false }
+        ]
+    },
+    {
+        "question": "Što učiniti ako te netko ucjenjuje na internetu?",
+        "answers": [
+            { "text": "Prijaviti to nadležnim službama i ne odgovarati ucjenjivaču", "correct": true },
+            { "text": "Poslati tražene informacije kako bi problem nestao", "correct": false },
+            { "text": "Ignorirati i nadati se da će prestati", "correct": false },
+            { "text": "Podijeliti situaciju s nepoznatim ljudima online", "correct": false }
+        ]
+    },
+    {
+        "question": "Što je catfishing?",
+        "answers": [
+            { "text": "Lažno predstavljanje na internetu radi obmane drugih", "correct": true },
+            { "text": "Vrsta ribolova", "correct": false },
+            { "text": "Sigurnosni protokol za zaštitu podataka", "correct": false },
+            { "text": "Zlonamjerni softver", "correct": false }
+        ]
+    },
+    {
+        "question": "Kako spriječiti krađu identiteta na internetu?",
+        "answers": [
+            { "text": "Korištenjem jakih lozinki i dvofaktorske autentifikacije", "correct": true },
+            { "text": "Dijeljenjem osobnih podataka javno", "correct": false },
+            { "text": "Klikanjem na sve poveznice u e-mailovima", "correct": false },
+            { "text": "Preuzimanjem nepoznatih datoteka", "correct": false }
+        ]
+    },
+    {
+        "question": "Koja je glavna svrha sigurnosnih zakrpa (patches)?",
+        "answers": [
+            { "text": "Ispravljanje sigurnosnih ranjivosti u softveru", "correct": true },
+            { "text": "Povećanje veličine datoteka", "correct": false },
+            { "text": "Dodavanje novih virusa u sustav", "correct": false },
+            { "text": "Usporavanje performansi računala", "correct": false }
+        ]
+    },
+    {
+        "question": "Što znači termin 'doxxing'?",
+        "answers": [
+            { "text": "Objavljivanje osobnih podataka osobe bez njenog pristanka", "correct": true },
+            { "text": "Šifriranje podataka radi zaštite", "correct": false },
+            { "text": "Krađa korisničkih računa", "correct": false },
+            { "text": "Lažno predstavljanje na društvenim mrežama", "correct": false }
+        ]
+    },
+    {
+        "question": "Koji je dobar način zaštite djece od cyberbullyinga?",
+        "answers": [
+            { "text": "Razgovor s djecom i edukacija o sigurnosti na internetu", "correct": true },
+            { "text": "Zabrana korištenja interneta", "correct": false },
+            { "text": "Ignoriranje problema", "correct": false },
+            { "text": "Ostavljanje djeteta da se samo nosi s problemima", "correct": false }
+        ]
+    },
+    {
+        "question": "Što učiniti ako primiš prijeteću poruku online?",
+        "answers": [
+            { "text": "Prijaviti nadležnim službama i blokirati pošiljatelja", "correct": true },
+            { "text": "Odgovoriti prijetnjom", "correct": false },
+            { "text": "Podijeliti poruku sa svima online", "correct": false },
+            { "text": "Ignorirati i nastaviti razgovor", "correct": false }
+        ]
+    },
+    {
+        "question": "Koji su česti znakovi prevare putem e-maila?",
+        "answers": [
+            { "text": "Gramatičke pogreške i hitni zahtjevi za osobnim podacima", "correct": true },
+            { "text": "E-mail od poznate osobe", "correct": false },
+            { "text": "Poruka bez pravopisnih grešaka", "correct": false },
+            { "text": "E-mail s korisnim informacijama", "correct": false }
+        ]
+    },
+    {
+        "question": "Kako se može zaštititi privatnost na društvenim mrežama?",
+        "answers": [
+            { "text": "Postavljanjem privatnosti profila i ograničavanjem vidljivosti objava", "correct": true },
+            { "text": "Prihvaćanjem svih zahtjeva za prijateljstvo", "correct": false },
+            { "text": "Objavljivanjem svih osobnih podataka", "correct": false },
+            { "text": "Dijeljenjem lozinke s prijateljima", "correct": false }
+        ]
+    },
+    {
+        "question": "Što je 'clickjacking'?",
+        "answers": [
+            { "text": "Napad gdje korisnik nesvjesno klikne na skriveni element na web stranici", "correct": true },
+            { "text": "Krađa podataka putem e-maila", "correct": false },
+            { "text": "Sigurnosni mehanizam za zaštitu web stranica", "correct": false },
+            { "text": "Vrsta enkripcije podataka", "correct": false }
+        ]
+    }
+]

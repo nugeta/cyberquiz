@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberQuiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<body>
+    <!-- Starter Page -->
+    <div id="starter-page" class="page active">
+        <div class="content">
+            <h1>Dobrodošli u Kviz o Cybersigurnosti</h1>
+            <p>Provjerite svoje znanje o cybersigurnosti na zabavan i interaktivan način!</p>
+            <button id="start-btn">Započni Kviz</button>
+        </div>
+    </div>
+    
+    <!-- Top Taskbar -->
+    <div id="top-taskbar">
+        <a href="ostali-projekti.html" class="taskbar-link">Ostali Projekti</a>
+        <a href="o-meni.html" class="taskbar-link">O meni</a>
+        <a href="kontakt.html" class="taskbar-link">Kontakt</a>
+    </div>
+    
+
+    <!-- Quiz Page -->
+    <div id="quiz-page" class="page">
+        <div class="quiz-container">
+            <div id="question-container">
+                <h2 id="question"></h2>
+                <div id="answer-buttons" class="btn-grid"></div>
+            </div>
+            <div id="controls">
+                <button id="next-btn" class="hidden">Sljedeće Pitanje</button>
+            </div>
+            <div id="progress"></div>
+            <div id="progress-bar">
+                <div id="progress-fill"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Results Page -->
+    <div id="results-page" class="page">
+        <div class="content">
+            <h2>Rezultati</h2>
+            <p id="score-text"></p>
+            <button id="restart-btn">Ponovno Pokreni Kviz</button>
+        </div>
+    </div>
+
+    <!-- Taskbar -->
+    <div id="taskbar">
+        <a href="https://instagram.com/gustigost" target="_blank" class="taskbar-icon">
+            <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
+        </a>
+        <a href="https://github.com/nugeta" target="_blank" class="taskbar-icon">
+            <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
+        </a>
+        <a href="https://fakecrime.bio/gusti" target="_blank" class="taskbar-icon">
+            <img src="favicon.png" alt="FakeCrime">
+        </a>
+
+    <!-- Hidden element for the "hack" question -->
+    <div id="hack-answer" class="hidden">OdgovorJeSvakaCast</div>
+
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <div id="particles-js"></div>
+</body>
+</html>
+
